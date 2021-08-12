@@ -1,0 +1,18 @@
+body
+{
+  background-color: LightGray;
+}
+h3,h1,h4
+{
+  background-color:#87CEFA;
+}
+p,ul,ol,form
+{
+  background-color:silver;
+}
+table
+{
+  background-color:silver;
+  border-style: dotted;
+
+}
