@@ -1,17 +1,21 @@
-body
-{
+body{
   background-color: LightGray;
 }
-h3,h1,h4
-{
+
+h3,h1,h4{
   background-color:#87CEFA;
 }
-p,ul,ol,form
-{
+
+p,ul,ol{
   background-color:silver;
 }
-table
-{
+
+form{
+  background-color:silver;
+  text-align: center;
+}
+
+table{
   background-color:silver;
   border-style: dotted;
 
